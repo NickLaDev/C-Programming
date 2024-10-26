@@ -18,13 +18,23 @@ Cada pasta contém os códigos-fonte dos exercícios e projetos, geralmente com 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/NickLaDev/Olimpic_Robot_Codes.git
+   
 Navegue até o diretório desejado e compile o arquivo .c com o gcc (ou outro compilador de sua preferência):
+
 bash
+
 Copiar código
+
 gcc nome_do_arquivo.c -o nome_do_executavel
+
 Execute o arquivo compilado:
+
 bash
+
 Copiar código
+
 ./nome_do_executavel
+
 Pré-requisitos
+
 Para executar os códigos, é necessário um compilador C instalado em seu sistema. Recomendamos o gcc, que está disponível em diversas plataformas.
